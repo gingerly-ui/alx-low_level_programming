@@ -1,1 +1,1 @@
-generates the assembly code
+compiles and executes a c file
