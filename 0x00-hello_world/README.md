@@ -1,1 +1,1 @@
-compiles and executes a c file
+a c program:
