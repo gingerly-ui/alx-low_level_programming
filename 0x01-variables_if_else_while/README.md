@@ -1,1 +1,1 @@
-prints all single digits
+prints lc alphabet in reverse
