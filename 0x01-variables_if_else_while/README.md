@@ -1,1 +1,1 @@
-alphabet in lowercase
+alphabet in lc then uc
