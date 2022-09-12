@@ -1,1 +1,1 @@
-prints exactly that
+prints diff sizes of computer
