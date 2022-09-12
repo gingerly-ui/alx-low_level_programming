@@ -1,1 +1,1 @@
-random number every execution
+alphabet in lowercase
