@@ -1,1 +1,1 @@
-prints lc alphabet in reverse
+prints all numbers of base 16 in lc
