@@ -1,1 +1,1 @@
-all single digit numbers
+prints all single digits
