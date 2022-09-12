@@ -1,1 +1,1 @@
-alphabet in lc followed by newline
+all single digit numbers
