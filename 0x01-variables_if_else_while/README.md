@@ -1,1 +1,1 @@
-alphabet in lc then uc
+alphabet in lc followed by newline
