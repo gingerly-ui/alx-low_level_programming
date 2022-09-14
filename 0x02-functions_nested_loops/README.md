@@ -1,1 +1,1 @@
-lists all numbers multiples of 3,5..
+prints the first 50 fibonacci numbers
