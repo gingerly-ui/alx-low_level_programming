@@ -1,1 +1,1 @@
-prints the 9X table starting with 0
+adds 2 int and returns result
