@@ -1,1 +1,1 @@
-prints putchar and a newline
+prints the alphabet in lc
