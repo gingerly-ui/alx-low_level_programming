@@ -1,1 +1,1 @@
-prints all natural numbers to 98
+prints the n times table
