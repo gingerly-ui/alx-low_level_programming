@@ -1,1 +1,1 @@
-prints the last digit of a number
+every min of Jack Bauer
