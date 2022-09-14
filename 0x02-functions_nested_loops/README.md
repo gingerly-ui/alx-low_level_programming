@@ -1,1 +1,1 @@
-every min of Jack Bauer
+prints the 9X table starting with 0
