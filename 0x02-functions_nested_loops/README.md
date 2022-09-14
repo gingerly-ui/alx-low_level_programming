@@ -1,1 +1,1 @@
-checks for lc character
+checks for alphabetic character
