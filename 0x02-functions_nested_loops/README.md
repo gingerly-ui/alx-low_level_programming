@@ -1,1 +1,1 @@
-adds 2 int and returns result
+prints all natural numbers to 98
