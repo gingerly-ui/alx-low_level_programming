@@ -1,1 +1,1 @@
-prints the n times table
+lists all numbers multiples of 3,5..
