@@ -1,1 +1,1 @@
-prime factors of 1231952
+ prints an integer
