@@ -1,1 +1,1 @@
- prints a triangle
+prime factors of 1231952
