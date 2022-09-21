@@ -1,1 +1,1 @@
-converts a string to an integer
+generates random valid passwords for the program 101-crackme.
