@@ -1,1 +1,1 @@
-prints half of a string
+prints n elements of an array of integers
