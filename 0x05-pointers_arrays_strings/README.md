@@ -1,1 +1,1 @@
-prints n elements of an array of integers
+ copies the string pointed to by src
