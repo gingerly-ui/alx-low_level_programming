@@ -1,1 +1,1 @@
-copies a string
+ compares two strings
