@@ -1,1 +1,1 @@
-capitalizes all words of a string
+encodes a string into 1337
