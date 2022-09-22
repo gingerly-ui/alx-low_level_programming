@@ -1,1 +1,1 @@
-prints an integer
+adds two numbers
