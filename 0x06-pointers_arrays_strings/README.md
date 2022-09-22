@@ -1,1 +1,1 @@
-encodes a string into 1337
+encodes a string using rot13
