@@ -1,1 +1,1 @@
-fills memory with a constant byte.
+t copies memory area
