@@ -1,1 +1,1 @@
- gets the length of a prefix substring
+searches a string for any of a set of bytes
