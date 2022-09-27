@@ -1,1 +1,1 @@
-t copies memory area
+ locates a character in a string
