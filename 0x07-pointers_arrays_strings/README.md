@@ -1,1 +1,1 @@
-searches a string for any of a set of bytes
+ locates a substring
