@@ -1,1 +1,1 @@
- locates a character in a string
+ gets the length of a prefix substring
