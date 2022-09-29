@@ -1,1 +1,1 @@
-prints a string in reverse
+returns the length of a string.
