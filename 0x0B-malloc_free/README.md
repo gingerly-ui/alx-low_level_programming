@@ -1,1 +1,1 @@
-returns a pointer to a 2 dimensional array of integers
+ frees a 2 dimensional grid previously created by your alloc_grid function.
