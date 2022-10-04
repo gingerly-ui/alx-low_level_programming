@@ -1,1 +1,1 @@
-function that concatenates two strings.
+returns a pointer to a 2 dimensional array of integers
