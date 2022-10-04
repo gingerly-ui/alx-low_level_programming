@@ -1,1 +1,1 @@
-concatenates all the arguments of your program
+ that splits a string into words
