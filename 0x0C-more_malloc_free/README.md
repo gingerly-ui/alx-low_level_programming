@@ -1,1 +1,1 @@
-creates an array of integers.
+reallocates a memory block using malloc and free
