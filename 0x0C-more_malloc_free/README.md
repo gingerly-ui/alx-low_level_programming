@@ -1,1 +1,1 @@
- allocates memory for an array, using malloc
+creates an array of integers.
