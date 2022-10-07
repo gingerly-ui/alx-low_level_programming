@@ -1,1 +1,1 @@
-allocates memory using malloc.
+concatenates two strings.
