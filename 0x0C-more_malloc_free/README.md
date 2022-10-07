@@ -1,1 +1,1 @@
-reallocates a memory block using malloc and free
+ multiplies two positive numbers.
